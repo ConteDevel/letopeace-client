@@ -1,4 +1,4 @@
-Letopeace
+[DEPRECATED] Letopeace
 =========
 
 An open-source mobile client for Letopeace.
